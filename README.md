@@ -7,6 +7,10 @@ A Slack bot that facilitates triaging MozDef alerts by automating outreach to Mo
 This code isn't being actively maintained as we're no longer using this Slack bot. Feel free to fork and continue it if you wish.
 ---
 
+# Demo
+
+https://github.com/user-attachments/assets/e3023073-4736-48ad-be3c-78a62a8b213c
+
 ## Flow
 
 * MozDef : The running instance of the MozDef SIEM
